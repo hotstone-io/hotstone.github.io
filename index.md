@@ -1,6 +1,6 @@
 ## 简介
 
-Hotstone.io 项目主要目的 [Operator SDK](https://github.com/operator-framework/operator-sdk) 开发一整套的 Kubernetes 管理平台。
+Hotstone.io 项目主要目的是通过 [Operator SDK](https://github.com/operator-framework/operator-sdk) 开发一整套的 Kubernetes 管理平台。
 
 目前开发正在进行中, 尚未发布, 请耐心等待。
 
