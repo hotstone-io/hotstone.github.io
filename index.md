@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## 简介
 
-You can use the [editor on GitHub](https://github.com/hotstone-io/hotstone.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hotstone.io 项目主要目的 [Operator SDK](https://github.com/operator-framework/operator-sdk) 开发一整套的 Kubernetes 管理平台。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+目前开发正在进行中, 尚未发布, 请耐心等待。
 
-### Markdown
+### 功能
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hotstone.io 项目主要围绕着 Kubernetes、Istio、Etcd、Prometheus、CI/CD 、Logging、Support、Cloud 等作为核心功能。
 
-```markdown
-Syntax highlighted code block
+### 授权
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hotstone-io/hotstone.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+目前只有个人支撑整个项目, 都是围绕着个人经验对实际使用过程中的引发的灵感进行开发, 如有疑问请联系我 `hotstone@hotstone.io` 或 `shilei@hotstone.com.cn`。
